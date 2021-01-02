@@ -18,8 +18,8 @@ h1{
 }
 
 img{
-    width: 275px;
-    height: 275px;
+    width: 12em;
+    height: 12em;
 }
 
 .no-padding{
@@ -84,7 +84,7 @@ img{
     padding: 1.5em;
     font-family: 'Montserrat', sans-serif;
     font-size: 2em;
-    font-weight: bold;
+    font-weight: bold;  
     color: white;
     background-color: #2c2e36;
     border-radius: 17px;
