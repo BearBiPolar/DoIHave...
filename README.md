@@ -6,4 +6,4 @@ This website was an extension for one of our proposed solutions for our problem 
 
 The Blindspot we were trying to address was: Lack of technological innovation in healthcare such as AI assisted analysis and diagnosis
 
-Created by: William Wang and Hammad Khan
+Created by William Wang and Hammad Khan.
