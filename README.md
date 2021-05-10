@@ -1,6 +1,6 @@
 # RiskWatch
 
-A website that helps you determine whether you are at risk of certain diseases through questionnaires. 
+A website that helps you determine whether you are at risk of certain diseases through questionnaires. Feel free to check out our [original solution] (https://github.com/ha36ad/SpotlightProject).
 
 This website was an extension for one of our proposed solutions for our problem pitch for the Spotlight Mentorship Program.
 
